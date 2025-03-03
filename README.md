@@ -1,6 +1,6 @@
-# Formulário de Notícias - Escola Estrelar do Amanhã
+# Formulário de Matrícula - Escola Estrela do Amanhã
 
-Formulário de Notícias - Escola Estrelar do Amanhã é uma página web que demonstra os aprendizados sobre formulários construída com **HTML** e **CSS**, que utiliza técnicas de **GRID** e **FLEX** para a criação de um layout moderno.
+Formulário de Matrícula - Escola Estrelar do Amanhã é uma página web que demonstra os aprendizados sobre formulários construída com **HTML** e **CSS**, que utiliza técnicas de **GRID** e **FLEX** para a criação de um layout moderno.
 
 ![Descrição da imagem](assets/photoProject.png)
 
