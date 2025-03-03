@@ -1,6 +1,8 @@
 # Formulário de Notícias - Escola Estrelar do Amanhã
 
- Formulário de Notícias - Escola Estrelar do Amanhã é uma página web que demonstra os aprendizados sobre formulários construída com **HTML** e **CSS**, que utiliza técnicas de **GRID** e **FLEX** para a criação de um layout moderno.
+Formulário de Notícias - Escola Estrelar do Amanhã é uma página web que demonstra os aprendizados sobre formulários construída com **HTML** e **CSS**, que utiliza técnicas de **GRID** e **FLEX** para a criação de um layout moderno.
+
+![Descrição da imagem](assets/photoProject.png)
 
 ## Visão Geral
 
@@ -30,7 +32,6 @@ O formulário disponibiliza diversos tipo de input e customozações dos mesmo.
    git clone https://github.com/hallancma/mba-rockeseat-sirius-projetos-03-formulario-de-matricula-escola-estrela-do-amanha
    ```
 2. Abra o arquivo `index.html` em seu navegador para visualizar a página.
-
 
 ## Ver Projeto
 
